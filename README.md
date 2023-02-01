@@ -1,2 +1,3 @@
-# tech201_fuctions
-tech201_fuctions
+# tech201_functions
+
+## Introducion to functions 
