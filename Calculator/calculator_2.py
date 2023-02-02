@@ -13,8 +13,6 @@ def divide(a: int, b: int) -> float:
 def convert(a: int,) -> float:
     return a * 0.01
 
-# def m_convert_ft(a: int) -> float:
-#     return a * 3.28084
 
 
 
